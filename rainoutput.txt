@@ -1,0 +1,50 @@
+Month   Rain (in.) Diff.
+DEC     10.4        -0.6
+NOV     9.8         -0.2
+OCT     8.3         +0.3
+SEP     7.1         +0.9
+AUG     7.5         +0.2
+JUL     6.5         -0.5
+JUN     6.7         +0.0
+MAY     6.9         -0.1
+APR     7.7         -0.1
+MAR     7.9         -0.3
+FEB     6.9         -5.4
+JAN     9.8         -3.3
+
+DEC
+Avg. Rainfall: **********
+Act. Rainfall: ***********
+NOV
+Avg. Rainfall: **********
+Act. Rainfall: **********
+OCT
+Avg. Rainfall: ********
+Act. Rainfall: ********
+SEP
+Avg. Rainfall: *******
+Act. Rainfall: ******
+AUG
+Avg. Rainfall: ********
+Act. Rainfall: *******
+JUL
+Avg. Rainfall: *******
+Act. Rainfall: *******
+JUN
+Avg. Rainfall: *******
+Act. Rainfall: *******
+MAY
+Avg. Rainfall: *******
+Act. Rainfall: *******
+APR
+Avg. Rainfall: ********
+Act. Rainfall: ********
+MAR
+Avg. Rainfall: ********
+Act. Rainfall: ********
+FEB
+Avg. Rainfall: *******
+Act. Rainfall: ************
+JAN
+Avg. Rainfall: **********
+Act. Rainfall: *************
